@@ -1,4 +1,4 @@
-# IshineeH-page
+# Ishinee
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Ishinee%20Nayandi&fontSize=30&fontColor=FFFFFF" alt="header">
 </p>
